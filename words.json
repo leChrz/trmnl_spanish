@@ -223,5 +223,35 @@
         "category": "Alltag",
         "level": "A2",
         "image": "015_coger.png"
+    },
+    {
+        "id": "016",
+        "word_es": "viajar",
+        "word_type": "Verb",
+        "translation_de": "reisen",
+        "mnemonic": "Jemand reist mit einem Via-Ticket quer durchs Land.",
+        "example_es": "Me gusta viajar en tren.",
+        "example_de": "Ich reise gern mit dem Zug.",
+        "conjugation_yo": "viajo",
+        "conjugation_tu": "viajas",
+        "conjugation_el": "viaja",
+        "category": "Reisen",
+        "level": "A1",
+        "image": "016_viajar.png"
+    },
+    {
+        "id": "017",
+        "word_es": "olvidar",
+        "word_type": "Verb",
+        "translation_de": "vergessen",
+        "mnemonic": "Jemand vergisst eine Olive auf dem Schreibtisch.",
+        "example_es": "Siempre olvido mi paraguas.",
+        "example_de": "Ich vergesse immer meinen Regenschirm.",
+        "conjugation_yo": "olvido",
+        "conjugation_tu": "olvidas",
+        "conjugation_el": "olvida",
+        "category": "Alltag",
+        "level": "A1",
+        "image": "017_olvidar.png"
     }
 ]
